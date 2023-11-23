@@ -1,4 +1,5 @@
-# anacondamport sys
+# anaconda 
+import sys
 import pylance
 from lib2to3.main
 import main 
